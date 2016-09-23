@@ -1,15 +1,4 @@
 # Salesfarce
 
-Requires nodejs v4.0+
+Fork of https://github.com/nicdex/salesfarce . 
 
-Requires [GoES](ttp://github.com/nicdex/goes) to store events.
-
-## Getting Started
-
-Install modules
-
-`npm install`
-
-Start app
-
-`npm start`
